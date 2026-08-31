@@ -1,0 +1,13 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+nse[local]>=3.2.0
+websockets>=12.0
+joblib
+numpy
+pandas
+yfinance
+scikit-learn
+xgboost
+passlib[bcrypt]
+pyjwt
+python-multipart
